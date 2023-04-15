@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/techguyrakib" target="blank"><img src="https://img.shields.io/twitter/follow/techguyrakib?logo=twitter&style=for-the-badge" alt="techguyrakib" /></a> </p>
 
-- 🔭 I’m currently working on **Automation & Manual Testing (Web/App)**
+- 🔭 I’m currently working on **Automation & Manual Testing**
 
 - 🌱 I’m currently learning **Selenium, Appium, Cypress**
 
