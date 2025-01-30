@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Rakib Ullah</h1>
-<h3 align="center">A Passionate Software QA Engineer & Project Manager</h3>
+<h3 align="center">A Passionate Product Manager in Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlkZTZmMDdlMDU0MmQ5OTRiYjgxYzAzZDEyMmM4NzMzYjM4Y2EzYyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techguyrakib&label=Profile%20views&color=0e75b6&style=flat" alt="techguyrakib" /> </p>
 
 <p align="left"> <a href="https://twitter.com/techguyrakib" target="blank"><img src="https://img.shields.io/twitter/follow/techguyrakib?logo=twitter&style=for-the-badge" alt="techguyrakib" /></a> </p>
 
-- 🔭 I’m currently working on **Automation & Manual Testing**
+- 🔭 I’m currently working on **Sr. Product Manager at DocuSign**
 
-- 🌱 I’m currently learning **Selenium, Appium, Cypress**
+- 🌱 I’m currently learning **AI Product Management**
 
-- 👯 I’m looking to collaborate on **Developer**
+- 👯 I’m looking to collaborate on **Machine Learning & Data Science Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/techguyrakib?tab=repositories](https://github.com/techguyrakib?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@techguyrakib](https://medium.com/@techguyrakib)
 
-- 💬 Ask me about **Software Testing, Automation Testing, Manual Testing, API Testing**
+- 💬 Ask me about **Product ision, Prioritize Product Backlog, Agile, Sprint**
 
 - 📫 How to reach me **hello.rakibullah@gmail.com**
 
