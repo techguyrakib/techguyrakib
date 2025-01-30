@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@techguyrakib](https://medium.com/@techguyrakib)
 
-- 💬 Ask me about **Product ision, Prioritize Product Backlog, Agile, Sprint**
+- 💬 Ask me about **Product Vision, Prioritize Product Backlog, Agile, Sprint**
 
 - 📫 How to reach me **hello.rakibullah@gmail.com**
 
