@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/techguyrakib" target="blank"><img src="https://img.shields.io/twitter/follow/techguyrakib?logo=twitter&style=for-the-badge" alt="techguyrakib" /></a> </p>
 
-- 🔭 I’m currently working on **Sr. Product Manager at DocuSign**
+- 🔭 I’m currently working on **Product Manager at Probash Service**
 
 - 🌱 I’m currently learning **AI Product Management**
 
